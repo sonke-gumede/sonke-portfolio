@@ -44,7 +44,7 @@ export default function Header() {
                             <span onClick={()=>onNavigate('/portfolio')} data-hover="1">Portfolio</span>
                         </li>
                         <li id="menu-item-191" className={`menu-item menu-item-type-post_type menu-item-object-page menu-item-191 ${isActive('/contact')}`}>
-                            <span onClick={()=>onNavigate('/contanct')} data-hover="1">Contact</span>
+                            <span onClick={()=>onNavigate('/contact')} data-hover="1">Contact</span>
                         </li>
                     </ul>
                 </div>

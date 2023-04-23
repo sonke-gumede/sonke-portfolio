@@ -200,7 +200,7 @@ export default function Resume() {
                                         <div className=" col-xs-12 col-sm-6 ">
                                             <div id="col_inner_796332a970e05ad435677b3cb493b49a" className="fw-col-inner" data-paddings="0px 0px 0px 0px">
                                                 <div className="block-title">
-                                                    <h2>Tech Stack</h2>
+                                                    <h2>Overall Tech Stack</h2>
                                                 </div>
 
 
