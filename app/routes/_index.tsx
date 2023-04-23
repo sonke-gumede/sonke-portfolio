@@ -33,7 +33,7 @@ export default function Index() {
                                 </p>
                                 <strong>Fun facts:</strong> Sometimes I'm more productive when I'm a little bit fatigued, I have no idea how is that even possible. 
                                 <div className="home-buttons">
-                                  <a href="https://lmpixels.com/wp/leven-wp/full-width/home/#" target="_blank" id="" className="btn btn-primary">Download CV</a>
+                                  <a href="#" target="_blank" id="" className="btn btn-primary">Download CV</a>
                                 </div>
                               </div>
                             </div>

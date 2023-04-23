@@ -2,14 +2,12 @@ const Footer: React.FunctionComponent = () => (
     <footer className="site-footer clearfix">
         <div className="footer-social">
             <ul className="footer-social-links">
+               
                 <li>
-                    <a href="https://lmpixels.com/wp/leven-wp/full-width/home/#" target="_blank">Twitter</a>
+                    <a href="https://www.linkedin.com/in/sonke-gumede-77033b89/" target="_blank">LinkedIn</a>
                 </li>
                 <li>
-                    <a href="https://lmpixels.com/wp/leven-wp/full-width/home/#" target="_blank">Facebook</a>
-                </li>
-                <li>
-                    <a href="https://lmpixels.com/wp/leven-wp/full-width/home/#" target="_blank">Instagram</a>
+                    <a href="https://github.com/sonkeGumede" target="_blank">Github</a>
                 </li>
             </ul>
         </div>
