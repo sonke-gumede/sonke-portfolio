@@ -49,6 +49,7 @@ export default function Resume() {
                                                         <span className="item-company">Sovtech</span>
                                                         <h4 className="item-title">Full Stack Developer</h4>
                                                         <div className="text">
+                                                        <a href="https://www.sovtech.co.za/" style={{color:"#54ca95"}} rel="noopener noreferrer" target="_blank">SovTech</a> is an award-winning, flexible custom software development company that designs, builds, deploys and maintains mobile and web applications
                                                             <ul style={{ listStyleType: "disc", padding: "0 0 0 20px" }}>
                                                                 <li>I work as a Javascript developer, developing web applications and
                                                                 Hybrid Mobile Applications.</li>  
@@ -66,7 +67,7 @@ export default function Resume() {
                                                         <span className="item-company">Flow Living</span>
                                                         <h4 className="item-title">Full Stack Developer</h4>
                                                         <div className="text">
-                                                            <a href="https://flowliving.com/" style={{color:"#54ca95"}} >Flow living</a> is a property agency company that enables automated social media advertising for the real estate industry, providing high volumes of quality property leads and brand building.
+                                                            <a href="https://flowliving.com/" style={{color:"#54ca95"}} rel="noopener noreferrer" target="_blank">Flow living</a> is a property agency company that enables automated social media advertising for the real estate industry, providing high volumes of quality property leads and brand building.
                                                             <ul style={{ listStyleType: "disc", padding: "0 0 0 20px" }}>
                                                                 <li>I worked as a Full Stack Software Developer</li>
                                                                 <li>I maintained a renting Mobile App that was written in React-Native</li>
@@ -81,21 +82,62 @@ export default function Resume() {
                                                         <span className="item-company">Platform 5 Digital</span>
                                                         <h4 className="item-title">Full Stack Developer</h4>
                                                         <div className="text">
-                                                            Praesent dignissim sollicitudin justo, sed elementum quam lacinia quis. Phasellus eleifend tristique posuere. Sed vitae dui nec magna.        </div>
-                                                    </div>
+                                                            <a href="https://www.linkedin.com/company/platform-5/" rel="noopener noreferrer" target="_blank" style={{color:"#54ca95"}}>Platform 5 Digital</a> was a digital marketing company, 
+                                                            that focused on facebook and instagram marketing as well as providing software consulting to clients. The company was shut down durign COVID19
+                                                            </div>
+                                                            <ul style={{ listStyleType: "disc", padding: "0 0 0 20px" }}>
+                                                            <li>I maintained Legacy PHP (Laravel) Projects</li>
+                                                            <li>I maintained Legacy Mobile App (Ionic v1 ) Projects</li>
+                                                            <li>I provided support to Magento 1.9 eCommerce Team with custom
+                                                            modules integration and Soap API's</li>
+                                                            
+                                                            <li>I created an eCommerce Mobile App, Written in React-Native and
+                                                            using GraphQL as a communication layer to a Java Spring
+                                                            Boot Microservice for push notifications, The App interacted with an
+                                                            existing online store via Soap API.
+                                                            </li>
+                                                            <li>I created an in-house project ,a data Visualisation System written
+                                                            in Python (Flask Framework) and the Front-end Written in React.js
+                                                            and Redux
+                                                            </li>
+                                                            </ul>
+                                                            <strong>Tech Stack:</strong> Laravel(PHP), jQuery, HTML5, MySQL, Sprin-boot and Python                                                    </div>
                                                     <div className="timeline-item clearfix">
                                                         <h5 className="item-period ">2017 - 2017</h5>
                                                         <span className="item-company">Figtory</span>
                                                         <h4 className="item-title">Full Stack Developer</h4>
                                                         <div className="text">
-                                                            Maecenas tempus faucibus rutrum. Duis eu aliquam urna. Proin vitae nulla tristique, ornare felis id, congue libero. Nam volutpat euismod quam.        </div>
+                                                            <a href="https://www.linkedin.com/company/figtory/" rel="noopener noreferrer" target="_blank" style={{color:"#54ca95"}}>Figtory</a> was a digital firm that was mainly focusing on creating custom softwares for small companies. The company consited of 5 software developers.
+                                                           </div>
+                                                           <ul style={{ listStyleType: "disc", padding: "0 0 0 20px" }}>
+                                                            <li>I worked on a street surveillance web based System built in
+                                                                Python and Javascript, the main aim for the project was to do a
+                                                                face-recognition on every image provided by the street camera
+                                                                and save the model to the database
+                                                                </li>
+                                                                <li>
+                                                                    I worked on a Mobile Application for detecting pest in crops by
+                                                                    using a camera. A user points a camera to a pest for about few
+                                                                    seconds and get a full description of a pest.
+                                                                </li>
+                                                           </ul>
+                                                           <strong>Tech Stack:</strong> Node.js, IBM Watson Visual Recognition, React-Native,
+                                                            React.js , MongoDB , Express.js
                                                     </div>
                                                     <div className="timeline-item clearfix">
                                                         <h5 className="item-period ">2015 - 2017</h5>
                                                         <span className="item-company">Ntumba Charted Accountant Inc</span>
                                                         <h4 className="item-title">Junior Website Developer</h4>
                                                         <div className="text">
-                                                            Duis mollis nunc quis quam viverra venenatis. Nulla nulla arcu, congue vitae nunc ac, sodales ultricies diam. Nullam justo leo, tincidunt sit amet.        </div>
+                                                            <a href="https://www.linkedin.com/in/siphiwe-hlogwane-786131b6/" rel="noopener noreferrer" target="_blank" style={{color:"#54ca95"}}>Ntumba Charted Accountant</a> was an accounting firm that provided Auditing and Book keeping services
+                                                           </div>
+                                                           <ul style={{ listStyleType: "disc", padding: "0 0 0 20px" }}>
+                                                            <li>I created a web based filing system, the main purpose was to
+                                                            convert all hard copy into digital soft copies.</li>
+                                                            <li>I created a web based system for recording all company
+                                                                projects and budgets</li>
+                                                           </ul>
+                                                           <strong>Tech Stack:</strong> Codeigniter, jQuery, HTML5, MySQL and CSS
                                                     </div>
                                                 </div>
                                             </div>
